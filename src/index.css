@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Style global kustom Anda bisa diletakkan di sini */
+body {
+    @apply bg-sky-100 font-sans;
+}
