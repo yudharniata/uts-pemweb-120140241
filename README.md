@@ -5,7 +5,7 @@
 
 ## Weather Dashboard
 
-Aplikasi ini adalah dasbor cuaca sederhana yang dibuat menggunakan React.js. Pengguna dapat memprediksi cuaca di kota mana pun di seluruh dunia dan mendapatkan informasi cuaca saat ini serta prakiraan 5 hari ke depan yang mengambil data live dari OpenWeatherMap API.
+Aplikasi ini adalah dashbor cuaca sederhana yang dibuat menggunakan React.js. Pengguna dapat memprediksi cuaca di kota mana pun di seluruh dunia dan mendapatkan informasi cuaca saat ini serta prakiraan 5 hari ke depan yang mengambil data live dari OpenWeatherMap API.
 
 ## Fitur Utama
 
@@ -71,4 +71,5 @@ Jalankan aplikasi
 ```
 
 Aplikasi akan otomatis terbuka di <http://localhost:3000>.
+
 
